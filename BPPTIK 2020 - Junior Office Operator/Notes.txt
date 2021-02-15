@@ -1,0 +1,10 @@
+[1. Latihan Format Halaman dan Teks_23Nov20]
+Open Password : 1234
+Modify Password : 5678
+
+TugasWord1 : Surat
+TugasWord2 : Artikel (Drop Cap, Table of Contents, Table of Figures, Page Break)
+TugasExcel3 : Perhitungan Gaji (Vlookup, AVG, MIN, MAX, IF Logic)
+TugasPPT4 : CV
+TugasPPT5 : Data COVID-19 - Jawa Timur
+TugasWord6 : Surat + Mail Merge
